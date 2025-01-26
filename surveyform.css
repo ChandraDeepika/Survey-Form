@@ -1,0 +1,113 @@
+body{
+    background-image: url("https://www.cadenceacademy.in/wp-content/uploads/2021/08/11557-scaled.jpg");
+    margin: 0 ;
+    border: solid;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  .container {
+    
+    width: 50%;
+    margin: 3.125rem auto 0 auto;
+    
+  }
+  
+  .header {
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+  }
+  
+  #title{
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 2px 1px 1px rgba(0.4, 0, 0, 0.4);
+    
+  }
+  
+  p{
+    padding: 2px 0 0 0;
+    font-size:30px;
+  }
+  #description{
+    text-align: center;
+    padding-top: 10px;
+    font-style: italic;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+  
+  }
+  
+  form {
+    background: rgb(75,0,130);
+    color: white;
+    padding: 2.5rem 3.725rem;
+    border-radius: 0.35rem;
+    width: 5+0vw;
+    max-width: 900px;
+    min-width: 300px;
+    margin: 0 auto;
+    box-shadow: 0 0 0 0.2rem rgba(0,0,0, 0.25);
+    
+  }
+  input,
+  select {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin: 8px 0 0 0;
+    width: 100%;
+    min-height: 2.5em;
+    margin-bottom: 10px;
+    
+  }
+  
+  .input-radio,
+  .input-checkbox {
+    display: inline-block;
+    margin-left: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+    width: unset;
+    margin: 0 0 0 0.5em;
+    vertical-align: middle;
+  }
+  
+  
+  label{
+    font-size: 30px;
+    display: block;
+    margin: 0.5rem 0;
+  
+  }
+  
+  .inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+  
+  .input-textarea {
+    min-height: 120px;
+    width: 100%;
+    padding: 0.625rem;
+    resize: vertical;
+  }
+  
+  
+  #submit{
+    margin: 20px;
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    padding: 0.75rem;
+    background: #FFD700;
+    color: black;
+    font-weight: bold; 
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
