@@ -1,4 +1,4 @@
-#**Farewell Party Survey Form**
+# **Farewell Party Survey Form**
 ## **Overview**
 This project features a Farewell Party Survey Form designed to collect feedback and insights from participants. The form is responsive and styled for an elegant user experience, allowing users to easily share their opinions and suggestions regarding the farewell party.
 
