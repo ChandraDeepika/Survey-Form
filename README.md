@@ -22,10 +22,13 @@ This project features a Farewell Party Survey Form designed to collect feedback 
 ## **Technical Details**
 * **HTML:** Provides the structure of the survey form.
 * **CSS:** Adds styles for a polished and visually appealing design, including:
-      * A purple gradient background for the form.
-      * Center-aligned headers with shadows for enhanced readability.
-      * Smooth and consistent spacing across form elements.
-      * Responsive Design: Optimized for devices of varying screen sizes with a dynamic layout.
+   * A purple gradient background for the form.
+  
+   * Center-aligned headers with shadows for enhanced readability.
+  
+   * Smooth and consistent spacing across form elements.
+  
+   * Responsive Design: Optimized for devices of varying screen sizes with a dynamic layout.
   
 
 ## **Preview**
